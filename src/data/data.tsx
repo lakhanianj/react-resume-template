@@ -146,11 +146,12 @@ export const aboutData: About = {
  * Portfolio section
  */
  export const portfolioItems: PortfolioItem[] = [  
-  {    title: 'Text-based Freecell',    
-        description: 'A text-based FreeCell implementation built using the model-view controller and factory design patterns that reads a sequence of commands and validates them before approving the moves.',    
-        //url: 'https://timbaker.me',    
-        image: porfolioImage3,  
-  },  
+  {
+    title: 'Text-based Freecell',    
+    description: 'A text-based FreeCell implementation built using the model-view controller and factory design patterns that reads a sequence of commands and validates them before approving the moves.',    
+    //url: 'https://timbaker.me',    
+    image: porfolioImage3,  
+  },
   {    
     title: 'Animator',    
     description: 'A shape animator including a model-view-controller and the Java Swing library that converts text into an animation as well as a user interface that allows the user to edit the animation in real time.',    
